@@ -3,7 +3,7 @@
 
 # 📊 Data-Driven Insights for an Online Book Store
 
-This project analyzes sales, inventory, and customer data from an online bookstore using SQL queries. The goal is to extract business insights to improve stock management, pricing strategies, and customer targeting.
+This project analyzes sales, inventory, and customer data from an online book store using SQL queries. The goal is to extract business insights to improve stock management, pricing strategies, and customer targeting.
 
 
 
@@ -203,4 +203,3 @@ Customer analysis helps in personalizing marketing efforts and improving user re
 
 <img src="https://github.com/gokuljujgar07/Online_Books_store/blob/main/IMAGES/Q.20.png" width="400"/> &nbsp;
 
----
