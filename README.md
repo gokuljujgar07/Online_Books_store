@@ -24,11 +24,8 @@ This project analyzes sales, inventory, and customer data from an online book st
 
 ---
 
-## 📌  SQL Queries Covered
-
 This project includes 20+ SQL queries that analyze:
 
-### 🔹 Basic Queries
 
 ✔ Retrieve all books in a specific genre
 
